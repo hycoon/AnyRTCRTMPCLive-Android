@@ -10,6 +10,5 @@
 同时本项目是基于anyRTC连麦直播Demo为参考，进行开发的。
 
 
-![主播端视频截图]（https://github.com/hycoon/AnyRTCRTMPCLive-Android/blob/master/screenshort/screenshort.jpg）
-
+![主播端视频截图](https://github.com/hycoon/AnyRTCRTMPCLive-Android/blob/master/screenshort/screenshort.jpg)
 由于单位禁网，现在游客端无法观看主播端视频，有时间再更新
